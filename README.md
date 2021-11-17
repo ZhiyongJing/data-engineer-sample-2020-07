@@ -1,6 +1,8 @@
 ### Use pure python and build in module to read txt files and combine into csv file
-> Please only check the only modified main.py file
-> Use python main.py to get output.csv
+> 
+  Please only check the only modified main.py file
+  Use python main.py to get output.csv
+  Check the output file under data/destination/ folder
 
 ### The scenario:
 - You have a vendor that delivers 2 files (`SOURCEDATA.TXT`, `SOURCECOLUMNS.txt`) every day at 6AM UTC. These files will land in `data/source/` for processing. For this assessment, you are provided the files in the `data/source/` path as if they were already delivered from the vendor.
